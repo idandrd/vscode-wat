@@ -1,6 +1,6 @@
 {
-    "name": "wat",
-    "displayName": "wat",
+    "name": "vscode-wat",
+    "displayName": "vscode-wat",
     "description": "who approved this?!",
     "version": "0.0.1",
     "engines": {

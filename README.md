@@ -1,6 +1,6 @@
-# wat README
+# vscode-wat README
 
-This is the README for your extension "wat". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "vscode-wat". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 
